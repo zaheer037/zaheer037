@@ -1,67 +1,21 @@
-# 💻 **My Portfolio**😊
+# 💫 About Me:
+Welcome to my GitHub! I'm Zaheer, a passionate MERN Stack Developer and an aspiring Full-Stack Engineer with a love for solving real-world problems and exploring the latest trends in AI and DevOps. 🌟<br><br>🎓 Pursuing a professional course at Chalapathi Institute of Engineering and Technology.<br>🌱 Currently honing my skills in Full-Stack Development, DevOps, and AI Tools.<br>🎯 Passionate about building innovative web applications, automating workflows, and creating meaningful solutions.<br>🌐 Always exploring technologies like TensorFlow, Docker, and Kubernetes to push my limits!
 
-Welcome to my GitHub! I'm Zaheer, a passionate **MERN Stack Developer** and an aspiring **Full-Stack Engineer** with a love for solving real-world problems and exploring the latest trends in **AI** and **DevOps**. 🌟  
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MASEED ZAHEER) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaheer_19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaheer-maseed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaheermaseed@gmail.com) 
 
-## 👨‍💻 **About Me**
-🎓 Pursuing a professional course at **Chalapathi Institute of Engineering and Technology**.  
-🌱 Currently honing my skills in **Full-Stack Development**, **DevOps**, and **AI Tools**.  
-🎯 Passionate about building innovative web applications, automating workflows, and creating meaningful solutions.  
-🌐 Always exploring technologies like **TensorFlow**, **Docker**, and **Kubernetes** to push my limits!  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zaheer037&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zaheer037&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaheer037&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## 🛠️ **Skills & Technologies**
-- **Programming Languages:** JavaScript (React.js, Node.js), Python  
-- **Frameworks & Libraries:** Express.js, Flask, TensorFlow, LSTM  
-- **DevOps Tools:** Git, Maven, Docker, Kubernetes, Jenkins  
-- **Web Development:** HTML5, CSS3, Bootstrap  
-- **Databases:** MongoDB, Postgres  
-- **Other Skills:** API Development, CI/CD, AI-Powered Tools  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=zaheer037&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=zaheer037&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌟 **Projects**
-### 1. [Job Posting Application](https://jobpostingapp.netlify.app/)  
-🖥️ A fully deployed application that helps users post and search for jobs.  
-📹 Created a 3-4 minute walkthrough video explaining its functionality using Loom.  
-
-### 2. [CodeQuest (Stack Overflow Clone)](https://code-stack-clone.netlify.app/) 
-🌍 A platform for developers to ask and answer coding questions.  
-📍 Integrated user location tracking with Google Maps API and displayed weather conditions.  
-
-### 3. AI-Powered Music Generator 🎵  
-🎼 Generates original music sequences using **LSTM**.  
-💻 Built with Flask, TensorFlow, and React.js, offering a sleek web interface for users to set music length and download MIDI files.  
-
-### 4. Amazon Clone  
-🛒 An e-commerce platform replicating the Amazon experience.  
-
-### 5. Movie Ratings Scraper 🎥  
-🔍 Scraped movie ratings from websites using BeautifulSoup4 and Selenium.  
-📊 Exported data into structured Excel sheets for analysis.  
-
----
-
-## ✨ **Passion**
-🌟 I thrive on building applications that **impact lives**, exploring **innovative technologies**, and solving complex problems through **teamwork** and **dedication**.  
-
-🚀 My goal is to work on projects that bridge the gap between **technology** and **human needs**, delivering **scalable**, **efficient**, and **user-friendly** solutions.  
-
----
-
-## 📫 **Connect with Me**  
-💼 [LinkedIn](https://www.linkedin.com/in/zaheer-maseed)  
-📧 Email: jaheermaseed@example.com  
-
----
-
-### 🔥 **Let's Build the Future Together!**  
-Thank you for visiting my profile! Feel free to explore my repositories, share feedback, or collaborate on a project. 🌍✨
-
-
-<!---
-zaheer037/zaheer037 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
